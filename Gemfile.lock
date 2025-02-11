@@ -163,7 +163,7 @@ DEPENDENCIES
   base64
   bundler (>= 2.3.5)
   csv
-  html-proofer (~> 5.0)
+  html-proofer (~> 5.0.9)
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
   jekyll-sitemap
